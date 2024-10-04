@@ -1,0 +1,5 @@
+/* Task 4: Class called boxy */
+.boxy {
+    border: 2px solid black;
+    box-shadow: 2px 2px 0px 0px gray;
+}
